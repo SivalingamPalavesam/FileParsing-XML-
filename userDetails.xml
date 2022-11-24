@@ -1,0 +1,27 @@
+<Users>
+    <user id="1">
+        <name value="siva" />
+        <city value="Srivilliputhur"/>
+        <state value="TN"/>
+    </user>
+    <user id="2">
+        <name value="sam" />
+        <city value="Srivilliputhur"/>
+        <state value="TN"/>
+    </user>
+    <user id="3">
+        <name value="ram" />
+        <city value="sivakasi"/>
+        <state value="TN"/>
+    </user>
+    <user id="4">
+        <name value="Kumar" />
+        <city value="Bangalore"/>
+        <state value="KA"/>
+    </user>
+    <user id="5">
+        <name value="raj" />
+        <city value="KR Puram"/>
+        <state value="KA"/>
+    </user>
+</Users>
